@@ -1,2 +1,1 @@
-# stevenmurderface.github.io
-Steven Murderface Private Website.
+Steven Murderface Github Website
